@@ -1,0 +1,153 @@
+{
+  "registration": [
+    {
+      "firstName": "Mohit",
+      "lastName": "Popli",
+      "email": "mohit.popli2926@gmail.com",
+      "password": "gautam5432926",
+      "id": 1
+    }
+  ],
+  "products": {
+    "fruitsVegetables": [
+      {
+        "name": "Fresho Kiwi - Green",
+        "price": "87",
+        "description": "",
+        "quantity": "3 pcs",
+        "id": "1",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617446738/sabka-bazar/images/kiwi-green_h8a6vb.jpg"
+      },
+      {
+        "name": "Apple - Washington",
+        "price": "187",
+        "description": "",
+        "quantity": "Regular, 4 pcs",
+        "id": "2",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617446738/sabka-bazar/images/apple_ddxqms.jpg"
+      },
+      {
+        "name": "Fresho Pomegrante Peeled",
+        "price": "88",
+        "description": "",
+        "quantity": "500 gm",
+        "id": "3",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617446738/sabka-bazar/images/pomegrante_ntpx4w.jpg"
+      },
+      {
+        "name": "Capsicum - Green",
+        "price": "137",
+        "description": "",
+        "quantity": "1Kg",
+        "id": "4",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617446738/sabka-bazar/images/capsicum-green_j9j8nj.jpg"
+      },
+      {
+        "name": "Tomato - Local Organically Grown",
+        "price": "12",
+        "description": "",
+        "quantity": "500 gm",
+        "id": "5",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617446738/sabka-bazar/images/tomato_zyqmoh.jpg"
+      }
+    ],
+    "bakeryItems": [
+      {
+        "name": "Sandwich Bread - White, Chemical Free",
+        "price": "32",
+        "description": "",
+        "quantity": "400 gm",
+        "id": "",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617446078/sabka-bazar/images/bread_ggxc3a.jpg"
+      },
+      {
+        "name": "Organic Fresh Paneer",
+        "price": "98",
+        "description": "",
+        "quantity": "200 gm",
+        "id": "",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617446738/sabka-bazar/images/apple_ddxqms.jpg"
+      },
+      {
+        "name": "Epigamia Greek Yogurt - Blueberry",
+        "price": "40",
+        "description": "",
+        "quantity": "90 gm Cup",
+        "id": "",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617446078/sabka-bazar/images/paneer_n6lhh8.jpg"
+      },
+      {
+        "name": "Epigamia Greek Yogurt - Strawberry",
+        "price": "40",
+        "description": "",
+        "quantity": "90 gm Cup",
+        "id": "",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617446078/sabka-bazar/images/yogurt-red_medylo.jpg"
+      }
+    ],
+    "babyCare": [
+      {
+        "name": "Pampers Diapers Pants - Large Size, Monthly Box Pack, New",
+        "price": "1999",
+        "description": "",
+        "quantity": "128's pack",
+        "id": "",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617462894/sabka-bazar/images/pampers_a0ae2l.jpg"
+      },
+      {
+        "name": "Mamypoko Pants Style Diapers- Large",
+        "price": "930",
+        "description": "",
+        "quantity": "62 pcs",
+        "id": "",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617462892/sabka-bazar/images/mamy_yiqt54.jpg"
+      },
+      {
+        "name": "Johnson & Johnson Baby skincare wipes",
+        "price": "70",
+        "description": "",
+        "quantity": "20 pcs",
+        "id": "",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617462892/sabka-bazar/images/wipes_nfo82o.jpg"
+      },
+      {
+        "name": "Nestle Cerelac Stage-4 Multi Grain & Fruits",
+        "price": "478",
+        "description": "",
+        "quantity": "2x300 gm",
+        "id": "",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617462892/sabka-bazar/images/cerelac_y1fmhc.jpg"
+      },
+      {
+        "name": "Baby Dove Baby Bar - Rich Moisture",
+        "price": "30",
+        "description": "",
+        "quantity": "50 gm",
+        "id": "",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617462892/sabka-bazar/images/baby-dove_wd5ibh.jpg"
+      },
+      {
+        "name": "Johnson's Active Kids Shampoo - Shiny Drops With Argan Oil",
+        "price": "95",
+        "description": "",
+        "quantity": "100 ml",
+        "id": "",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617446078/sabka-bazar/images/yogurt-red_medylo.jpg"
+      },
+      {
+        "name": "Baby Wipes - Cherry Blossom,",
+        "price": "300",
+        "description": "",
+        "quantity": "2x80 pcs",
+        "id": "",
+        "image": "https://res.cloudinary.com/dj0inalbr/image/upload/v1617462892/sabka-bazar/images/red-wipes_e18kt8.jpg"
+      }
+    ]
+  },
+  "cartItems": [
+    {
+      "id": "1",
+      "items": []
+    }
+  ]
+}
